@@ -60,7 +60,8 @@ dataset covering 8 major Indian cities with 2209 clean records.
 - Optimize delivery operations to meet 45 min target
 
 ## Dashboard Preview
-[Add screenshots here]
+
+https://github.com/user-attachments/assets/22a3c476-0b72-4d9e-be0a-32600b7e5b26
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/shivansh-sah-6790b3249/)
