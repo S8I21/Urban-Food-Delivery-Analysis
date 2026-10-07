@@ -63,5 +63,5 @@ dataset covering 8 major Indian cities with 2209 clean records.
 [Add screenshots here]
 
 ## Connect
-[LinkedIn]((https://www.linkedin.com/in/shivansh-sah-6790b3249/))
+[LinkedIn](https://www.linkedin.com/in/shivansh-sah-6790b3249/)
 [GitHub](https://github.com/S8I21)
